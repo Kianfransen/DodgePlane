@@ -15,7 +15,7 @@ step 3: click on: The 3 points at the right of the file size.
 
 step 4: click on: download.
 
-step 6: install
+step 5: install
 
 make sure to ignore al the danger messages.
 

@@ -4,6 +4,12 @@ Download page for DodgePlane.
 
 Only compatibel for android phones.
 
+version 1.3:
+
+enemy plane speed nerf.
+
+Bug fix for score to get up to 300 higher.
+
 how to download: 
 
 
